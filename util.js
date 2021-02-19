@@ -1,0 +1,1 @@
+const jokes = require("./jokes");
