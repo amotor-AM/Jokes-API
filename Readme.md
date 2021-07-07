@@ -17,4 +17,4 @@ You will need to send a body that contains an object with a setup and a punchlin
 If you want to delete a joke you can remove it from the database by sending a DELETE request to
 https://programming-humor.herokuapp.com/:id
 
-none of these endpoints are protected. Meaning this API is probably going to get spammed with jokes. I can not be held responsible for the content that is added. THe power is in your hands now.
+none of these endpoints are protected. Meaning this API is probably going to get spammed with jokes. I can not be held responsible for the content that is added. The power is in your hands now.
